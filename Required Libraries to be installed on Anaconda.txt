@@ -17,4 +17,9 @@ conda install keras
 ix. ImageAI
 conda3 install imageai --upgrade
 conda install https://github.com/OlafenwaMoses/ImageAI/releases/download/2.0.3/imageai-2.0.3-py3-none-any.whl
-
+x. keyboard
+conda install keyboard
+xi. serial
+conda install serial
+xii. speech_recognition
+conda install speech_recognition
